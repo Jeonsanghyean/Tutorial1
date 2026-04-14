@@ -7,7 +7,7 @@ hw1.ipynb
 hw2.ipynb
 
 ## HW3
-hw3.ipynb
+(스크린샷 2026-04-14 125531.png)
 
 ## HW4
 
