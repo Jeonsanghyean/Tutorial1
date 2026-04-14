@@ -7,7 +7,7 @@
 [hw2.ipynb](https://github.com/Jeonsanghyean/Tutorial1/blob/main/hw2.ipynb)
 
 ## HW3
-![](/스크린샷 2026-04-14 125531.png)
+![스크린샷 2026-04-14 125531.png]
 
 ## HW4
 
