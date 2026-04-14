@@ -1,13 +1,13 @@
 # IP2026
 
 ## HW1
-hw1.ipynb
+[hw1.ipynb](https://github.com/Jeonsanghyean/Tutorial1/blob/main/hw1.ipynb)
 
 ## HW2
-hw2.ipynb
+[hw2.ipynb](https://github.com/Jeonsanghyean/Tutorial1/blob/main/hw2.ipynb)
 
 ## HW3
-(스크린샷 2026-04-14 125531.png)
+!(스크린샷 2026-04-14 125531.png)
 
 ## HW4
 
