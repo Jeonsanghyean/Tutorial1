@@ -1,16 +1,16 @@
 # IP2026
 
 ## HomeWork1
-![1](https://youtu.be/sRK_OsmNrus)
+https://youtu.be/sRK_OsmNrus
 
 ## HomeWork2
-![2](https://youtu.be/3_Wi7fMtgZA)
+https://youtu.be/3_Wi7fMtgZA
 
 ## HomeWork3
 ![[3]](https://github.com/Jeonsanghyean/Tutorial1/blob/main/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202026-04-14%20125531.png)
 
 ## HomeWork4
-![4](https://youtu.be/YyfjDUPm5cw)
+https://youtu.be/YyfjDUPm5cw
 
 ## HomeWork5
-![5](https://youtu.be/BrtaiKjKmls)
+https://youtu.be/BrtaiKjKmls
