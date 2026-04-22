@@ -2,7 +2,7 @@
 
 ## HomeWork1
 https://youtu.be/sRK_OsmNrus
-[![이미지 설명](https://youtu.be/sRK_OsmNrus)](https://youtu.be/sRK_OsmNrus)
+[![이미지 설명](https://github.com/Jeonsanghyean/Tutorial1/blob/main/hw1.mp4)]
 
 ## HomeWork2
 https://youtu.be/3_Wi7fMtgZA
